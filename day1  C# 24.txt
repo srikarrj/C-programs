@@ -1,0 +1,53 @@
+oops  
+
+object oriented programming system
+
+class 
+object
+methods
+variables
+  
+class is a closed container where we can bind variables and methods.
+
+-------------------------------------
+
+class classname
+{
+In side class we have variables;
+methods()
+}
+ 
+
+class demo
+{
+int a=10,b=20,c;
+}
+
+
+purpose of a variable is for accesing a value but not storing a value.
+object is doing allowcation of memory to variables.obj is allowcating sufficient memory to class
+method purpose it will tell what to do and how to do..
+
+
+----------------------------------------
+
+class demo
+{
+int a =20,b=30,c;
+void add()
+{
+c=a+b;
+}
+
+}
+
+
+--------
+syntax for object
+
+objectname.methodname();
+
+
+
+
+ 
